@@ -1,0 +1,9 @@
+{
+  "name": "videos",
+  "description": "It is an application that helps you to record your daily topics of interest. A hub for creators and editors.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
